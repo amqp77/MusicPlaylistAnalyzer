@@ -1,0 +1,2 @@
+C:\Users\epicc\Desktop\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+C:\Users\epicc\Desktop\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
